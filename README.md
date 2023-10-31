@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shoaib Hasan</h1>
 <h3 align="center">Aspiring BCA student | Full Stack Web Developer (MERN) | Passionate about creating dynamic and user-friendly web applications.</h3>
 
-- 🔭 I’m currently working on [Shoppie-MERN](https://github.com/shoaibhasann/Shoppie-MERN)
+- 🔭 I’m currently working on [threads-clone](https://github.com/shoaibhasann/threads-clone)
 
 - 🌱 I’m currently learning **Next.js, Webpack and Typescript**
 
