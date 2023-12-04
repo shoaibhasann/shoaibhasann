@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shoaib Hasan</h1>
-<h3 align="center">Aspiring BCA student | Full Stack Web Developer (MERN) | Passionate about creating dynamic and user-friendly web applications.</h3>
+<h3 align="center">Full Stack Web Developer (MERN) | Converting code into digital solutions | Tech enthusiast</h3>
 
 - 🔭 I’m currently working on [threads-clone](https://github.com/shoaibhasann/threads-clone)
 
