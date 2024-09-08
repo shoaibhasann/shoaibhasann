@@ -1,8 +1,8 @@
-![logo](https://github.com/shoaibhasann/shoaibhasann/blob/main/coding.gif)
-
 
 <h1 align="center">Hi 👋, I'm Shoaib Hasan</h1>
 <h3 align="center">Full Stack Web Developer (MERN) | Converting code into digital solutions | Tech enthusiast</h3>
+
+<img src="https://github.com/shoaibhasann/shoaibhasann/blob/main/coding.gif" alt="coding-gif" align="right" width=400 />
 
 - 🔭 I’m currently working on [threads-clone](https://github.com/shoaibhasann/threads-clone)
 
