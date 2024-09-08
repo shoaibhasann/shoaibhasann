@@ -1,5 +1,6 @@
-![logo](![image](https://github.com/user-attachments/assets/39e049a0-ffd1-48ff-9cf8-6fc478926e50)
-)
+![logo](https://github.com/shoaibhasann/shoaibhasann/blob/main/coding.gif)
+
+
 <h1 align="center">Hi 👋, I'm Shoaib Hasan</h1>
 <h3 align="center">Full Stack Web Developer (MERN) | Converting code into digital solutions | Tech enthusiast</h3>
 
