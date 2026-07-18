@@ -26,7 +26,7 @@ from PIL import Image
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(HERE, "..", "source-prepped.png")
-HS_FRAC_DEFAULT = 0.58   # fraction of the subject's height to keep (head + shoulders)
+HS_FRAC_DEFAULT = 0.72   # fraction of the subject's height to keep (head + shoulders)
 
 
 def main():
@@ -58,13 +58,16 @@ def main():
     white.paste(img, (0, 0), img)
     gray = np.array(white.convert("L")).astype(np.float32)
 
-    # 4. contrast stretch on the subject pixels, then a gentle gamma
+    # 4. contrast stretch on the subject pixels, a gentle gamma, then knock the
+    #    lightest areas (shirt, skin highlights) to pure white so they read as
+    #    clean blanks instead of speckled ASCII noise.
     subject = gray < 250
     if subject.any():
-        lo, hi = np.percentile(gray[subject], (2, 98))
+        lo, hi = np.percentile(gray[subject], (3, 97))
         gray = np.clip((gray - lo) / max(hi - lo, 1.0) * 255.0, 0, 255)
         gray[~subject] = 255.0                 # keep the background pure white
-    gray = 255.0 * (gray / 255.0) ** 0.85      # open up the shadows a touch
+    gray = 255.0 * (gray / 255.0) ** 0.9       # open up the shadows a touch
+    gray[gray > 200] = 255.0                   # clean light-area speckle
 
     Image.fromarray(gray.astype("uint8")).save(OUT)
     print(f"Wrote {os.path.relpath(OUT)} ({Image.open(OUT).size}) — "

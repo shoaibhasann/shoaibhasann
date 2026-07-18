@@ -1,10 +1,10 @@
-# local photo pipeline artifacts — regenerate with scripts, don't commit
+# local photo pipeline artifacts — regenerate with scripts, don't commit.
+# The committed art is all .svg; raw photos and intermediates stay local.
 .venv/
 __pycache__/
-source-photo.*
-source-prepped.png
-profile.jpeg
-profile.jpg
-*.pv.html
+*.jpg
+*.jpeg
+*.png
+ascii-front.svg
 pv.html
 preview.html
