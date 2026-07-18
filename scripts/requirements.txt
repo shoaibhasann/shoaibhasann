@@ -1,9 +1,7 @@
-# Daily automation (fetch + render) needs NOTHING beyond the Python stdlib —
-# fetch_contributions.py uses urllib, the renderers use only json/os.
-# Keep this file for the photo pipeline, which you run locally, occasionally.
+# The portrait pipeline (prep_photo.py + make_ascii_svg.py) is the only thing
+# with dependencies, and you run it locally, occasionally — when you change your
+# photo. Everything else in this repo is pure Python stdlib.
 
-# Portrait pipeline only (prep_photo.py + make_ascii_svg.py photo mode):
-pillow
-numpy
-opencv-python
-rembg
+pillow    # image loading + resizing
+numpy     # contrast stretch in prep_photo.py
+rembg     # background removal (optional but strongly recommended)
