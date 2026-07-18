@@ -1,0 +1,9 @@
+# Daily automation (fetch + render) needs NOTHING beyond the Python stdlib —
+# fetch_contributions.py uses urllib, the renderers use only json/os.
+# Keep this file for the photo pipeline, which you run locally, occasionally.
+
+# Portrait pipeline only (prep_photo.py + make_ascii_svg.py photo mode):
+pillow
+numpy
+opencv-python
+rembg

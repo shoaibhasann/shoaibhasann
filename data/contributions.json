@@ -1,0 +1,2631 @@
+{
+  "user": "shoaibhasann",
+  "generated_at": "2026-07-18T18:43:24Z",
+  "stats": {
+    "total": 102,
+    "current_streak": 1,
+    "longest_streak": 6,
+    "best_day": {
+      "date": "2026-01-20",
+      "count": 9
+    },
+    "monthly": {
+      "2025-07": 0,
+      "2025-08": 21,
+      "2025-09": 12,
+      "2025-10": 0,
+      "2025-11": 0,
+      "2025-12": 12,
+      "2026-01": 27,
+      "2026-02": 18,
+      "2026-03": 0,
+      "2026-04": 2,
+      "2026-05": 4,
+      "2026-06": 0,
+      "2026-07": 6
+    },
+    "range": {
+      "from": "2025-07-13",
+      "to": "2026-07-18"
+    }
+  },
+  "days": [
+    {
+      "date": "2025-07-13",
+      "weekday": 0,
+      "week": 0,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-07-14",
+      "weekday": 1,
+      "week": 0,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-07-15",
+      "weekday": 2,
+      "week": 0,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-07-16",
+      "weekday": 3,
+      "week": 0,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-07-17",
+      "weekday": 4,
+      "week": 0,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-07-18",
+      "weekday": 5,
+      "week": 0,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-07-19",
+      "weekday": 6,
+      "week": 0,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-07-20",
+      "weekday": 0,
+      "week": 1,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-07-21",
+      "weekday": 1,
+      "week": 1,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-07-22",
+      "weekday": 2,
+      "week": 1,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-07-23",
+      "weekday": 3,
+      "week": 1,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-07-24",
+      "weekday": 4,
+      "week": 1,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-07-25",
+      "weekday": 5,
+      "week": 1,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-07-26",
+      "weekday": 6,
+      "week": 1,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-07-27",
+      "weekday": 0,
+      "week": 2,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-07-28",
+      "weekday": 1,
+      "week": 2,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-07-29",
+      "weekday": 2,
+      "week": 2,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-07-30",
+      "weekday": 3,
+      "week": 2,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-07-31",
+      "weekday": 4,
+      "week": 2,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-08-01",
+      "weekday": 5,
+      "week": 2,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-08-02",
+      "weekday": 6,
+      "week": 2,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-08-03",
+      "weekday": 0,
+      "week": 3,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-08-04",
+      "weekday": 1,
+      "week": 3,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-08-05",
+      "weekday": 2,
+      "week": 3,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-08-06",
+      "weekday": 3,
+      "week": 3,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-08-07",
+      "weekday": 4,
+      "week": 3,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-08-08",
+      "weekday": 5,
+      "week": 3,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-08-09",
+      "weekday": 6,
+      "week": 3,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-08-10",
+      "weekday": 0,
+      "week": 4,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-08-11",
+      "weekday": 1,
+      "week": 4,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-08-12",
+      "weekday": 2,
+      "week": 4,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-08-13",
+      "weekday": 3,
+      "week": 4,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-08-14",
+      "weekday": 4,
+      "week": 4,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-08-15",
+      "weekday": 5,
+      "week": 4,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-08-16",
+      "weekday": 6,
+      "week": 4,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-08-17",
+      "weekday": 0,
+      "week": 5,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-08-18",
+      "weekday": 1,
+      "week": 5,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-08-19",
+      "weekday": 2,
+      "week": 5,
+      "level": 2,
+      "count": 3
+    },
+    {
+      "date": "2025-08-20",
+      "weekday": 3,
+      "week": 5,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-08-21",
+      "weekday": 4,
+      "week": 5,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-08-22",
+      "weekday": 5,
+      "week": 5,
+      "level": 1,
+      "count": 2
+    },
+    {
+      "date": "2025-08-23",
+      "weekday": 6,
+      "week": 5,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-08-24",
+      "weekday": 0,
+      "week": 6,
+      "level": 1,
+      "count": 2
+    },
+    {
+      "date": "2025-08-25",
+      "weekday": 1,
+      "week": 6,
+      "level": 3,
+      "count": 5
+    },
+    {
+      "date": "2025-08-26",
+      "weekday": 2,
+      "week": 6,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-08-27",
+      "weekday": 3,
+      "week": 6,
+      "level": 1,
+      "count": 1
+    },
+    {
+      "date": "2025-08-28",
+      "weekday": 4,
+      "week": 6,
+      "level": 2,
+      "count": 4
+    },
+    {
+      "date": "2025-08-29",
+      "weekday": 5,
+      "week": 6,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-08-30",
+      "weekday": 6,
+      "week": 6,
+      "level": 1,
+      "count": 2
+    },
+    {
+      "date": "2025-08-31",
+      "weekday": 0,
+      "week": 7,
+      "level": 1,
+      "count": 2
+    },
+    {
+      "date": "2025-09-01",
+      "weekday": 1,
+      "week": 7,
+      "level": 4,
+      "count": 7
+    },
+    {
+      "date": "2025-09-02",
+      "weekday": 2,
+      "week": 7,
+      "level": 1,
+      "count": 2
+    },
+    {
+      "date": "2025-09-03",
+      "weekday": 3,
+      "week": 7,
+      "level": 1,
+      "count": 1
+    },
+    {
+      "date": "2025-09-04",
+      "weekday": 4,
+      "week": 7,
+      "level": 1,
+      "count": 1
+    },
+    {
+      "date": "2025-09-05",
+      "weekday": 5,
+      "week": 7,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-09-06",
+      "weekday": 6,
+      "week": 7,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-09-07",
+      "weekday": 0,
+      "week": 8,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-09-08",
+      "weekday": 1,
+      "week": 8,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-09-09",
+      "weekday": 2,
+      "week": 8,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-09-10",
+      "weekday": 3,
+      "week": 8,
+      "level": 1,
+      "count": 1
+    },
+    {
+      "date": "2025-09-11",
+      "weekday": 4,
+      "week": 8,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-09-12",
+      "weekday": 5,
+      "week": 8,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-09-13",
+      "weekday": 6,
+      "week": 8,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-09-14",
+      "weekday": 0,
+      "week": 9,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-09-15",
+      "weekday": 1,
+      "week": 9,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-09-16",
+      "weekday": 2,
+      "week": 9,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-09-17",
+      "weekday": 3,
+      "week": 9,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-09-18",
+      "weekday": 4,
+      "week": 9,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-09-19",
+      "weekday": 5,
+      "week": 9,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-09-20",
+      "weekday": 6,
+      "week": 9,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-09-21",
+      "weekday": 0,
+      "week": 10,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-09-22",
+      "weekday": 1,
+      "week": 10,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-09-23",
+      "weekday": 2,
+      "week": 10,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-09-24",
+      "weekday": 3,
+      "week": 10,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-09-25",
+      "weekday": 4,
+      "week": 10,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-09-26",
+      "weekday": 5,
+      "week": 10,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-09-27",
+      "weekday": 6,
+      "week": 10,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-09-28",
+      "weekday": 0,
+      "week": 11,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-09-29",
+      "weekday": 1,
+      "week": 11,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-09-30",
+      "weekday": 2,
+      "week": 11,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-10-01",
+      "weekday": 3,
+      "week": 11,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-10-02",
+      "weekday": 4,
+      "week": 11,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-10-03",
+      "weekday": 5,
+      "week": 11,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-10-04",
+      "weekday": 6,
+      "week": 11,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-10-05",
+      "weekday": 0,
+      "week": 12,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-10-06",
+      "weekday": 1,
+      "week": 12,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-10-07",
+      "weekday": 2,
+      "week": 12,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-10-08",
+      "weekday": 3,
+      "week": 12,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-10-09",
+      "weekday": 4,
+      "week": 12,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-10-10",
+      "weekday": 5,
+      "week": 12,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-10-11",
+      "weekday": 6,
+      "week": 12,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-10-12",
+      "weekday": 0,
+      "week": 13,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-10-13",
+      "weekday": 1,
+      "week": 13,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-10-14",
+      "weekday": 2,
+      "week": 13,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-10-15",
+      "weekday": 3,
+      "week": 13,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-10-16",
+      "weekday": 4,
+      "week": 13,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-10-17",
+      "weekday": 5,
+      "week": 13,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-10-18",
+      "weekday": 6,
+      "week": 13,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-10-19",
+      "weekday": 0,
+      "week": 14,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-10-20",
+      "weekday": 1,
+      "week": 14,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-10-21",
+      "weekday": 2,
+      "week": 14,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-10-22",
+      "weekday": 3,
+      "week": 14,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-10-23",
+      "weekday": 4,
+      "week": 14,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-10-24",
+      "weekday": 5,
+      "week": 14,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-10-25",
+      "weekday": 6,
+      "week": 14,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-10-26",
+      "weekday": 0,
+      "week": 15,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-10-27",
+      "weekday": 1,
+      "week": 15,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-10-28",
+      "weekday": 2,
+      "week": 15,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-10-29",
+      "weekday": 3,
+      "week": 15,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-10-30",
+      "weekday": 4,
+      "week": 15,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-10-31",
+      "weekday": 5,
+      "week": 15,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-11-01",
+      "weekday": 6,
+      "week": 15,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-11-02",
+      "weekday": 0,
+      "week": 16,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-11-03",
+      "weekday": 1,
+      "week": 16,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-11-04",
+      "weekday": 2,
+      "week": 16,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-11-05",
+      "weekday": 3,
+      "week": 16,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-11-06",
+      "weekday": 4,
+      "week": 16,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-11-07",
+      "weekday": 5,
+      "week": 16,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-11-08",
+      "weekday": 6,
+      "week": 16,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-11-09",
+      "weekday": 0,
+      "week": 17,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-11-10",
+      "weekday": 1,
+      "week": 17,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-11-11",
+      "weekday": 2,
+      "week": 17,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-11-12",
+      "weekday": 3,
+      "week": 17,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-11-13",
+      "weekday": 4,
+      "week": 17,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-11-14",
+      "weekday": 5,
+      "week": 17,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-11-15",
+      "weekday": 6,
+      "week": 17,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-11-16",
+      "weekday": 0,
+      "week": 18,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-11-17",
+      "weekday": 1,
+      "week": 18,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-11-18",
+      "weekday": 2,
+      "week": 18,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-11-19",
+      "weekday": 3,
+      "week": 18,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-11-20",
+      "weekday": 4,
+      "week": 18,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-11-21",
+      "weekday": 5,
+      "week": 18,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-11-22",
+      "weekday": 6,
+      "week": 18,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-11-23",
+      "weekday": 0,
+      "week": 19,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-11-24",
+      "weekday": 1,
+      "week": 19,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-11-25",
+      "weekday": 2,
+      "week": 19,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-11-26",
+      "weekday": 3,
+      "week": 19,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-11-27",
+      "weekday": 4,
+      "week": 19,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-11-28",
+      "weekday": 5,
+      "week": 19,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-11-29",
+      "weekday": 6,
+      "week": 19,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-11-30",
+      "weekday": 0,
+      "week": 20,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-12-01",
+      "weekday": 1,
+      "week": 20,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-12-02",
+      "weekday": 2,
+      "week": 20,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-12-03",
+      "weekday": 3,
+      "week": 20,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-12-04",
+      "weekday": 4,
+      "week": 20,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-12-05",
+      "weekday": 5,
+      "week": 20,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-12-06",
+      "weekday": 6,
+      "week": 20,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-12-07",
+      "weekday": 0,
+      "week": 21,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-12-08",
+      "weekday": 1,
+      "week": 21,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-12-09",
+      "weekday": 2,
+      "week": 21,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-12-10",
+      "weekday": 3,
+      "week": 21,
+      "level": 1,
+      "count": 1
+    },
+    {
+      "date": "2025-12-11",
+      "weekday": 4,
+      "week": 21,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-12-12",
+      "weekday": 5,
+      "week": 21,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-12-13",
+      "weekday": 6,
+      "week": 21,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-12-14",
+      "weekday": 0,
+      "week": 22,
+      "level": 3,
+      "count": 5
+    },
+    {
+      "date": "2025-12-15",
+      "weekday": 1,
+      "week": 22,
+      "level": 1,
+      "count": 1
+    },
+    {
+      "date": "2025-12-16",
+      "weekday": 2,
+      "week": 22,
+      "level": 1,
+      "count": 2
+    },
+    {
+      "date": "2025-12-17",
+      "weekday": 3,
+      "week": 22,
+      "level": 2,
+      "count": 3
+    },
+    {
+      "date": "2025-12-18",
+      "weekday": 4,
+      "week": 22,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-12-19",
+      "weekday": 5,
+      "week": 22,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-12-20",
+      "weekday": 6,
+      "week": 22,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-12-21",
+      "weekday": 0,
+      "week": 23,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-12-22",
+      "weekday": 1,
+      "week": 23,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-12-23",
+      "weekday": 2,
+      "week": 23,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-12-24",
+      "weekday": 3,
+      "week": 23,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-12-25",
+      "weekday": 4,
+      "week": 23,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-12-26",
+      "weekday": 5,
+      "week": 23,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-12-27",
+      "weekday": 6,
+      "week": 23,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-12-28",
+      "weekday": 0,
+      "week": 24,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-12-29",
+      "weekday": 1,
+      "week": 24,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-12-30",
+      "weekday": 2,
+      "week": 24,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2025-12-31",
+      "weekday": 3,
+      "week": 24,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-01",
+      "weekday": 4,
+      "week": 24,
+      "level": 1,
+      "count": 1
+    },
+    {
+      "date": "2026-01-02",
+      "weekday": 5,
+      "week": 24,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-03",
+      "weekday": 6,
+      "week": 24,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-04",
+      "weekday": 0,
+      "week": 25,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-05",
+      "weekday": 1,
+      "week": 25,
+      "level": 1,
+      "count": 1
+    },
+    {
+      "date": "2026-01-06",
+      "weekday": 2,
+      "week": 25,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-07",
+      "weekday": 3,
+      "week": 25,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-08",
+      "weekday": 4,
+      "week": 25,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-09",
+      "weekday": 5,
+      "week": 25,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-10",
+      "weekday": 6,
+      "week": 25,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-11",
+      "weekday": 0,
+      "week": 26,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-12",
+      "weekday": 1,
+      "week": 26,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-13",
+      "weekday": 2,
+      "week": 26,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-14",
+      "weekday": 3,
+      "week": 26,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-15",
+      "weekday": 4,
+      "week": 26,
+      "level": 1,
+      "count": 1
+    },
+    {
+      "date": "2026-01-16",
+      "weekday": 5,
+      "week": 26,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-17",
+      "weekday": 6,
+      "week": 26,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-18",
+      "weekday": 0,
+      "week": 27,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-19",
+      "weekday": 1,
+      "week": 27,
+      "level": 1,
+      "count": 1
+    },
+    {
+      "date": "2026-01-20",
+      "weekday": 2,
+      "week": 27,
+      "level": 4,
+      "count": 9
+    },
+    {
+      "date": "2026-01-21",
+      "weekday": 3,
+      "week": 27,
+      "level": 2,
+      "count": 4
+    },
+    {
+      "date": "2026-01-22",
+      "weekday": 4,
+      "week": 27,
+      "level": 2,
+      "count": 3
+    },
+    {
+      "date": "2026-01-23",
+      "weekday": 5,
+      "week": 27,
+      "level": 2,
+      "count": 4
+    },
+    {
+      "date": "2026-01-24",
+      "weekday": 6,
+      "week": 27,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-25",
+      "weekday": 0,
+      "week": 28,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-26",
+      "weekday": 1,
+      "week": 28,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-27",
+      "weekday": 2,
+      "week": 28,
+      "level": 2,
+      "count": 3
+    },
+    {
+      "date": "2026-01-28",
+      "weekday": 3,
+      "week": 28,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-29",
+      "weekday": 4,
+      "week": 28,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-30",
+      "weekday": 5,
+      "week": 28,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-01-31",
+      "weekday": 6,
+      "week": 28,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-02-01",
+      "weekday": 0,
+      "week": 29,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-02-02",
+      "weekday": 1,
+      "week": 29,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-02-03",
+      "weekday": 2,
+      "week": 29,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-02-04",
+      "weekday": 3,
+      "week": 29,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-02-05",
+      "weekday": 4,
+      "week": 29,
+      "level": 2,
+      "count": 3
+    },
+    {
+      "date": "2026-02-06",
+      "weekday": 5,
+      "week": 29,
+      "level": 1,
+      "count": 2
+    },
+    {
+      "date": "2026-02-07",
+      "weekday": 6,
+      "week": 29,
+      "level": 1,
+      "count": 2
+    },
+    {
+      "date": "2026-02-08",
+      "weekday": 0,
+      "week": 30,
+      "level": 2,
+      "count": 4
+    },
+    {
+      "date": "2026-02-09",
+      "weekday": 1,
+      "week": 30,
+      "level": 2,
+      "count": 4
+    },
+    {
+      "date": "2026-02-10",
+      "weekday": 2,
+      "week": 30,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-02-11",
+      "weekday": 3,
+      "week": 30,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-02-12",
+      "weekday": 4,
+      "week": 30,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-02-13",
+      "weekday": 5,
+      "week": 30,
+      "level": 1,
+      "count": 1
+    },
+    {
+      "date": "2026-02-14",
+      "weekday": 6,
+      "week": 30,
+      "level": 1,
+      "count": 1
+    },
+    {
+      "date": "2026-02-15",
+      "weekday": 0,
+      "week": 31,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-02-16",
+      "weekday": 1,
+      "week": 31,
+      "level": 1,
+      "count": 1
+    },
+    {
+      "date": "2026-02-17",
+      "weekday": 2,
+      "week": 31,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-02-18",
+      "weekday": 3,
+      "week": 31,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-02-19",
+      "weekday": 4,
+      "week": 31,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-02-20",
+      "weekday": 5,
+      "week": 31,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-02-21",
+      "weekday": 6,
+      "week": 31,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-02-22",
+      "weekday": 0,
+      "week": 32,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-02-23",
+      "weekday": 1,
+      "week": 32,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-02-24",
+      "weekday": 2,
+      "week": 32,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-02-25",
+      "weekday": 3,
+      "week": 32,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-02-26",
+      "weekday": 4,
+      "week": 32,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-02-27",
+      "weekday": 5,
+      "week": 32,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-02-28",
+      "weekday": 6,
+      "week": 32,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-01",
+      "weekday": 0,
+      "week": 33,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-02",
+      "weekday": 1,
+      "week": 33,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-03",
+      "weekday": 2,
+      "week": 33,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-04",
+      "weekday": 3,
+      "week": 33,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-05",
+      "weekday": 4,
+      "week": 33,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-06",
+      "weekday": 5,
+      "week": 33,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-07",
+      "weekday": 6,
+      "week": 33,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-08",
+      "weekday": 0,
+      "week": 34,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-09",
+      "weekday": 1,
+      "week": 34,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-10",
+      "weekday": 2,
+      "week": 34,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-11",
+      "weekday": 3,
+      "week": 34,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-12",
+      "weekday": 4,
+      "week": 34,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-13",
+      "weekday": 5,
+      "week": 34,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-14",
+      "weekday": 6,
+      "week": 34,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-15",
+      "weekday": 0,
+      "week": 35,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-16",
+      "weekday": 1,
+      "week": 35,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-17",
+      "weekday": 2,
+      "week": 35,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-18",
+      "weekday": 3,
+      "week": 35,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-19",
+      "weekday": 4,
+      "week": 35,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-20",
+      "weekday": 5,
+      "week": 35,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-21",
+      "weekday": 6,
+      "week": 35,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-22",
+      "weekday": 0,
+      "week": 36,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-23",
+      "weekday": 1,
+      "week": 36,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-24",
+      "weekday": 2,
+      "week": 36,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-25",
+      "weekday": 3,
+      "week": 36,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-26",
+      "weekday": 4,
+      "week": 36,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-27",
+      "weekday": 5,
+      "week": 36,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-28",
+      "weekday": 6,
+      "week": 36,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-29",
+      "weekday": 0,
+      "week": 37,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-30",
+      "weekday": 1,
+      "week": 37,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-03-31",
+      "weekday": 2,
+      "week": 37,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-04-01",
+      "weekday": 3,
+      "week": 37,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-04-02",
+      "weekday": 4,
+      "week": 37,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-04-03",
+      "weekday": 5,
+      "week": 37,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-04-04",
+      "weekday": 6,
+      "week": 37,
+      "level": 1,
+      "count": 2
+    },
+    {
+      "date": "2026-04-05",
+      "weekday": 0,
+      "week": 38,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-04-06",
+      "weekday": 1,
+      "week": 38,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-04-07",
+      "weekday": 2,
+      "week": 38,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-04-08",
+      "weekday": 3,
+      "week": 38,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-04-09",
+      "weekday": 4,
+      "week": 38,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-04-10",
+      "weekday": 5,
+      "week": 38,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-04-11",
+      "weekday": 6,
+      "week": 38,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-04-12",
+      "weekday": 0,
+      "week": 39,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-04-13",
+      "weekday": 1,
+      "week": 39,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-04-14",
+      "weekday": 2,
+      "week": 39,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-04-15",
+      "weekday": 3,
+      "week": 39,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-04-16",
+      "weekday": 4,
+      "week": 39,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-04-17",
+      "weekday": 5,
+      "week": 39,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-04-18",
+      "weekday": 6,
+      "week": 39,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-04-19",
+      "weekday": 0,
+      "week": 40,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-04-20",
+      "weekday": 1,
+      "week": 40,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-04-21",
+      "weekday": 2,
+      "week": 40,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-04-22",
+      "weekday": 3,
+      "week": 40,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-04-23",
+      "weekday": 4,
+      "week": 40,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-04-24",
+      "weekday": 5,
+      "week": 40,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-04-25",
+      "weekday": 6,
+      "week": 40,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-04-26",
+      "weekday": 0,
+      "week": 41,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-04-27",
+      "weekday": 1,
+      "week": 41,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-04-28",
+      "weekday": 2,
+      "week": 41,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-04-29",
+      "weekday": 3,
+      "week": 41,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-04-30",
+      "weekday": 4,
+      "week": 41,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-05-01",
+      "weekday": 5,
+      "week": 41,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-05-02",
+      "weekday": 6,
+      "week": 41,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-05-03",
+      "weekday": 0,
+      "week": 42,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-05-04",
+      "weekday": 1,
+      "week": 42,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-05-05",
+      "weekday": 2,
+      "week": 42,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-05-06",
+      "weekday": 3,
+      "week": 42,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-05-07",
+      "weekday": 4,
+      "week": 42,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-05-08",
+      "weekday": 5,
+      "week": 42,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-05-09",
+      "weekday": 6,
+      "week": 42,
+      "level": 1,
+      "count": 1
+    },
+    {
+      "date": "2026-05-10",
+      "weekday": 0,
+      "week": 43,
+      "level": 2,
+      "count": 3
+    },
+    {
+      "date": "2026-05-11",
+      "weekday": 1,
+      "week": 43,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-05-12",
+      "weekday": 2,
+      "week": 43,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-05-13",
+      "weekday": 3,
+      "week": 43,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-05-14",
+      "weekday": 4,
+      "week": 43,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-05-15",
+      "weekday": 5,
+      "week": 43,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-05-16",
+      "weekday": 6,
+      "week": 43,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-05-17",
+      "weekday": 0,
+      "week": 44,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-05-18",
+      "weekday": 1,
+      "week": 44,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-05-19",
+      "weekday": 2,
+      "week": 44,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-05-20",
+      "weekday": 3,
+      "week": 44,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-05-21",
+      "weekday": 4,
+      "week": 44,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-05-22",
+      "weekday": 5,
+      "week": 44,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-05-23",
+      "weekday": 6,
+      "week": 44,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-05-24",
+      "weekday": 0,
+      "week": 45,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-05-25",
+      "weekday": 1,
+      "week": 45,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-05-26",
+      "weekday": 2,
+      "week": 45,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-05-27",
+      "weekday": 3,
+      "week": 45,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-05-28",
+      "weekday": 4,
+      "week": 45,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-05-29",
+      "weekday": 5,
+      "week": 45,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-05-30",
+      "weekday": 6,
+      "week": 45,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-05-31",
+      "weekday": 0,
+      "week": 46,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-06-01",
+      "weekday": 1,
+      "week": 46,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-06-02",
+      "weekday": 2,
+      "week": 46,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-06-03",
+      "weekday": 3,
+      "week": 46,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-06-04",
+      "weekday": 4,
+      "week": 46,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-06-05",
+      "weekday": 5,
+      "week": 46,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-06-06",
+      "weekday": 6,
+      "week": 46,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-06-07",
+      "weekday": 0,
+      "week": 47,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-06-08",
+      "weekday": 1,
+      "week": 47,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-06-09",
+      "weekday": 2,
+      "week": 47,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-06-10",
+      "weekday": 3,
+      "week": 47,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-06-11",
+      "weekday": 4,
+      "week": 47,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-06-12",
+      "weekday": 5,
+      "week": 47,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-06-13",
+      "weekday": 6,
+      "week": 47,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-06-14",
+      "weekday": 0,
+      "week": 48,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-06-15",
+      "weekday": 1,
+      "week": 48,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-06-16",
+      "weekday": 2,
+      "week": 48,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-06-17",
+      "weekday": 3,
+      "week": 48,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-06-18",
+      "weekday": 4,
+      "week": 48,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-06-19",
+      "weekday": 5,
+      "week": 48,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-06-20",
+      "weekday": 6,
+      "week": 48,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-06-21",
+      "weekday": 0,
+      "week": 49,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-06-22",
+      "weekday": 1,
+      "week": 49,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-06-23",
+      "weekday": 2,
+      "week": 49,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-06-24",
+      "weekday": 3,
+      "week": 49,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-06-25",
+      "weekday": 4,
+      "week": 49,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-06-26",
+      "weekday": 5,
+      "week": 49,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-06-27",
+      "weekday": 6,
+      "week": 49,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-06-28",
+      "weekday": 0,
+      "week": 50,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-06-29",
+      "weekday": 1,
+      "week": 50,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-06-30",
+      "weekday": 2,
+      "week": 50,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-07-01",
+      "weekday": 3,
+      "week": 50,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-07-02",
+      "weekday": 4,
+      "week": 50,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-07-03",
+      "weekday": 5,
+      "week": 50,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-07-04",
+      "weekday": 6,
+      "week": 50,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-07-05",
+      "weekday": 0,
+      "week": 51,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-07-06",
+      "weekday": 1,
+      "week": 51,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-07-07",
+      "weekday": 2,
+      "week": 51,
+      "level": 1,
+      "count": 1
+    },
+    {
+      "date": "2026-07-08",
+      "weekday": 3,
+      "week": 51,
+      "level": 1,
+      "count": 2
+    },
+    {
+      "date": "2026-07-09",
+      "weekday": 4,
+      "week": 51,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-07-10",
+      "weekday": 5,
+      "week": 51,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-07-11",
+      "weekday": 6,
+      "week": 51,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-07-12",
+      "weekday": 0,
+      "week": 52,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-07-13",
+      "weekday": 1,
+      "week": 52,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-07-14",
+      "weekday": 2,
+      "week": 52,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-07-15",
+      "weekday": 3,
+      "week": 52,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-07-16",
+      "weekday": 4,
+      "week": 52,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-07-17",
+      "weekday": 5,
+      "week": 52,
+      "level": 0,
+      "count": 0
+    },
+    {
+      "date": "2026-07-18",
+      "weekday": 6,
+      "week": 52,
+      "level": 2,
+      "count": 3
+    }
+  ]
+}

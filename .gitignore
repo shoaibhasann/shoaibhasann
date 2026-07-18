@@ -1,0 +1,6 @@
+# local photo pipeline artifacts — regenerate with scripts, don't commit
+.venv/
+__pycache__/
+source-photo.*
+source-prepped.png
+preview.html
