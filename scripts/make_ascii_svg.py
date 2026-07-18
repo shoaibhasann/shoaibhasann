@@ -79,29 +79,21 @@ def main():
     width = int(grid_w + PAD * 2)
     height = int(TOP + len(lines) * LINE_H + PAD)
 
-    stagger = 0.09
-
-    # SMIL only (CSS animation is ignored inside an <img> SVG on GitHub). Each
-    # row prints in with a short fade + rise, top to bottom, then freezes. A
-    # block cursor blinks on the last row to keep the terminal feel.
+    # Content is drawn fully visible (opacity 1) — NOT revealed by animation.
+    # GitHub's image pipeline is unreliable about running SVG animations from a
+    # hidden start (opacity:0 + animate), which can leave the portrait blank.
+    # The only motion is a blinking cursor, which is visible at frame 0 anyway.
     body = []
     for i, line in enumerate(lines):
         y = TOP + i * LINE_H
-        begin = round(i * stagger, 3)
         body.append(
-            f'<text x="{PAD}" y="{y}" class="art" opacity="0" xml:space="preserve">'
-            f'<animate attributeName="opacity" from="0" to="1" begin="{begin}s" dur="0.3s" fill="freeze"/>'
-            f'<animateTransform attributeName="transform" type="translate" from="0 4" to="0 0" '
-            f'begin="{begin}s" dur="0.3s" fill="freeze"/>'
-            f'{esc(line)}</text>'
+            f'<text x="{PAD}" y="{y}" class="art" xml:space="preserve">{esc(line)}</text>'
         )
 
     last_y = TOP + (len(lines) - 1) * LINE_H
-    cursor_begin = round(len(lines) * stagger + 0.1, 3)
     cursor = (
-        f'<rect class="cur" x="{PAD}" y="{last_y + 4}" width="{CHAR_W:.1f}" height="3" opacity="0">'
-        f'<set attributeName="opacity" to="1" begin="{cursor_begin}s"/>'
-        f'<animate attributeName="opacity" values="1;1;0;0;1" dur="1.1s" begin="{cursor_begin}s" repeatCount="indefinite"/>'
+        f'<rect class="cur" x="{PAD}" y="{last_y + 4}" width="{CHAR_W:.1f}" height="3" opacity="1">'
+        f'<animate attributeName="opacity" values="1;1;0;0;1" dur="1.1s" repeatCount="indefinite"/>'
         f'</rect>'
     )
 

@@ -57,24 +57,14 @@ def main():
     title = f"{USER}@{HOST}"
     rule_y = TOP - 18
 
-    # SMIL only (CSS animation is ignored inside an <img> SVG on GitHub). Each
-    # row starts hidden, then slides in from the left and fades to full, frozen.
+    # Rows are drawn fully visible (opacity 1) — NOT revealed by animation.
+    # GitHub's image pipeline is unreliable about running SVG animations from a
+    # hidden start (opacity:0 + animate), which can leave the card blank.
     lines = []
     for i, (k, v) in enumerate(ROWS):
         y = TOP + i * LINE_H
-        delay = round(0.25 + i * 0.13, 3)
-        if STATIC:
-            anim = ""
-            op = ""
-        else:
-            anim = (
-                f'<animate attributeName="opacity" from="0" to="1" begin="{delay}s" dur="0.45s" fill="freeze"/>'
-                f'<animateTransform attributeName="transform" type="translate" from="-12 0" to="0 0" '
-                f'begin="{delay}s" dur="0.45s" fill="freeze"/>'
-            )
-            op = ' opacity="0"'
         lines.append(
-            f'<g{op}>{anim}'
+            f'<g>'
             f'<text x="{PAD}" y="{y}" class="key">{esc(k)}</text>'
             f'<text x="{PAD + KEY_W}" y="{y}" class="val">{esc(v)}</text>'
             f'</g>'
