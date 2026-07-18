@@ -1,6 +1,5 @@
 <!-- ════════════════════════════════════════════════════════════════════
      shoaibhasann / README.md  ·  animated, self-hosted SVG art
-     Heatmap refreshes daily via .github/workflows/update-profile-art.yml
      Palette: #0f172a → #6366f1 → #a855f7 → #ec4899   (no green, by design)
 ════════════════════════════════════════════════════════════════════ -->
 
@@ -28,12 +27,6 @@
 <img src="https://img.shields.io/badge/BCA-Completed-db2777?style=flat-square&labelColor=0f172a" alt="BCA — Completed" />
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=shoaibhasann&style=flat-square&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views" />
-
-<br /><br />
-
-<h3><code>shoaib@github ~ $ ./contributions.sh</code></h3>
-
-<img src="./contrib-heatmap.svg" width="850" alt="Contribution heatmap — refreshes daily" />
 
 <br /><br />
 
