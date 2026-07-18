@@ -32,14 +32,9 @@
 
 <h3><code>shoaib@github ~ $ whoami</code></h3>
 
-<table>
-  <tr>
-    <td valign="top"><img src="./shoaib-ascii.svg" width="360" alt="ASCII portrait" /></td>
-    <td valign="top"><img src="./info-card.svg" width="490" alt="Profile card" /></td>
-  </tr>
-</table>
-
 </div>
+
+<img src="./info-card.svg" width="100%" alt="Profile card — Shoaib Hasan" />
 
 <br />
 

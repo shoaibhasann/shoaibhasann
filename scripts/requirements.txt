@@ -1,7 +1,0 @@
-# The portrait pipeline (prep_photo.py + make_ascii_svg.py) is the only thing
-# with dependencies, and you run it locally, occasionally — when you change your
-# photo. Everything else in this repo is pure Python stdlib.
-
-pillow    # image loading + resizing
-numpy     # contrast stretch in prep_photo.py
-rembg     # background removal (optional but strongly recommended)
