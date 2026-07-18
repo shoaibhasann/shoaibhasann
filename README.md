@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,30:1e1b4b,55:6366f1,80:a855f7,100:ec4899&text=SHOAIB%20HASAN&fontSize=58&fontColor=f8fafc&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%C2%B7%20MERN%20%2B%20AI%20%E2%80%94%206%20Client%20Products%20Live%20in%20Production&descSize=16&descAlignY=57" width="100%" alt="Shoaib Hasan — Full-Stack Developer · MERN + AI — 6 client products live in production" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,30:1e1b4b,55:6366f1,80:a855f7,100:ec4899&text=SHOAIB%20HASAN&fontSize=58&fontColor=f8fafc&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20MERN%20%2B%20AI%20%E2%80%94%206%20Client%20Products%20Live%20in%20Production&descSize=16&descAlignY=57" width="100%" alt="Shoaib Hasan — Full-Stack Developer · MERN + AI — 6 client products live in production" />
 
 <a href="https://iamshoaib.tech">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=800&color=8B5CF6&center=true&vCenter=true&width=680&height=45&lines=Full-Stack+Developer+%C2%B7+MERN+%2B+Next.js+%2B+AI;6+client+products+live+in+production;Web+%C2%B7+Mobile+%C2%B7+AI+%E2%80%94+owned+end+to+end;Accepting+builds+%E2%80%94+response+%3C+24h" alt="Full-Stack Developer · MERN + Next.js + AI" />
@@ -38,7 +38,7 @@
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=56&color=0:0f172a,55:6366f1,100:a855f7&text=01%20%C2%B7%20LIVE%20CLIENT%20WORK&fontSize=22&fontColor=f8fafc&fontAlignY=52&animation=fadeIn" width="100%" alt="01 · Live Client Work" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=56&color=0:0f172a,55:6366f1,100:a855f7&text=01%20%C2%B7%20LIVE%20CLIENT%20WORK&fontSize=22&fontColor=f8fafc&fontAlignY=52" width="100%" alt="01 · Live Client Work" />
 
 <p align="center"><i>Not demos — deployments. Real businesses, real traffic, in production today.</i></p>
 
@@ -53,7 +53,7 @@
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=56&color=0:0f172a,55:6366f1,100:a855f7&text=02%20%C2%B7%20TECH%20STACK&fontSize=22&fontColor=f8fafc&fontAlignY=52&animation=fadeIn" width="100%" alt="02 · Tech Stack" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=56&color=0:0f172a,55:6366f1,100:a855f7&text=02%20%C2%B7%20TECH%20STACK&fontSize=22&fontColor=f8fafc&fontAlignY=52" width="100%" alt="02 · Tech Stack" />
 
 **Frontend / Mobile**
 
@@ -103,7 +103,7 @@
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=56&color=0:0f172a,55:6366f1,100:a855f7&text=03%20%C2%B7%20OPEN-SOURCE%20LAB&fontSize=22&fontColor=f8fafc&fontAlignY=52&animation=fadeIn" width="100%" alt="03 · Open-Source Lab" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=56&color=0:0f172a,55:6366f1,100:a855f7&text=03%20%C2%B7%20OPEN-SOURCE%20LAB&fontSize=22&fontColor=f8fafc&fontAlignY=52" width="100%" alt="03 · Open-Source Lab" />
 
 <p align="center"><i>Where I pressure-test ideas before they reach client work.</i></p>
 
@@ -118,7 +118,7 @@
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=56&color=0:0f172a,55:6366f1,100:a855f7&text=04%20%C2%B7%20CONTACT&fontSize=22&fontColor=f8fafc&fontAlignY=52&animation=fadeIn" width="100%" alt="04 · Contact" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=56&color=0:0f172a,55:6366f1,100:a855f7&text=04%20%C2%B7%20CONTACT&fontSize=22&fontColor=f8fafc&fontAlignY=52" width="100%" alt="04 · Contact" />
 
 <p align="center">Have a product that needs to exist? The fastest way to find out if we're a fit is a short message — I reply within 24 hours.</p>
 
